@@ -6,6 +6,7 @@ Ping Pong
 Chris Munene
 ## Description:
 This is an interactive game that turns your input into interesting values.
+
 Only numbers can be entered.
 ## Specifications
   * It can count from 1 upto the entered number.
@@ -24,6 +25,7 @@ Only numbers can be entered.
 
 ## Directions:
 To view the game just copy the link below to your browser. https://ChrisMunene.github.io/Pingpong/
+
 To play just enter a number in the space provided and click the button!
 Instant results!
 
