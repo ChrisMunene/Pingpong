@@ -13,13 +13,13 @@ Only numbers can be entered.
    * **Example Input:**[1]
    * **Example Output:**[1,2]
   * In the output:
-    * any number divisble by 3 is replaced with 'ping'
+    * any number divisible by 3 is replaced with 'ping'
       * **Example Input:**[3]
       * **Example Output:**[1,2,ping]
-    * any number divisble by 5 is replaced with 'pong'
+    * any number divisible by 5 is replaced with 'pong'
       * **Example Input:**[5]
       * **Example Output:**[1,2,ping,4,pong]
-    * any number divisble by both 3 and 5 is replaced with 'pingpong'
+    * any number divisible by both 3 and 5 is replaced with 'pingpong'
       * **Example Input:**[15]
       * **Example Output:**[..,11,pong,13,14,pingpong]
 
