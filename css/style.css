@@ -37,9 +37,5 @@ h4{
     font-weight: bold;
 }
 #result{
-  text-align: center;
-  display:block;
-
-  padding-top: 0;
-  padding: 10px;
+  list-style-type: none;
 }
