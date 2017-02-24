@@ -27,6 +27,7 @@ Only numbers can be entered.
 To view the game just copy the link below to your browser. https://ChrisMunene.github.io/Pingpong/
 
 To play just enter a number in the space provided and click the button!
+
 Instant results!
 
 ## History:
