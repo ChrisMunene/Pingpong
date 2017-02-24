@@ -21,6 +21,7 @@ Only numbers can be entered.
     * any number divisble by both 3 and 5 is replaced with 'pingpong'
       * **Example Input:**[15]
       * **Example Output:**[..,11,pong,13,14,pingpong]
+
 ## Directions:
 To view the game just copy the link below to your browser. https://ChrisMunene.github.io/Pingpong/
 To play just enter a number in the space provided and click the button!
